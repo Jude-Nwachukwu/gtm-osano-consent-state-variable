@@ -6,7 +6,7 @@ This Google Tag Manager (GTM) custom variable template lets you retrieve user co
 - You are working with **Basic or Advanced Consent Mode**.
 - You want to create **exception triggers** based on specific consent categories.
 
-> Developed by **Jude** for [DumbData](https://dumbdata.co/)
+> Developed by **Jude Nwachuwku Onyejekwe** for [DumbData](https://dumbdata.co/)
 
 ---
 
