@@ -2,5 +2,5 @@
 homepage: https://dumbdata.co/
 documentation: https://github.com/Jude-Nwachukwu/gtm-osano-consent-state-variable
 versions:
-  - sha: XXX
+  - sha: 42454a9475908bc0a47387a3bde6b2259827bb2f
     changeNotes: Initial release.
