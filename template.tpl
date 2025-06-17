@@ -14,6 +14,9 @@ ___INFO___
   "version": 1,
   "securityGroups": [],
   "displayName": "DD Osano Consent State (Unofficial)",
+  "categories": [
+    "UTILITY"
+  ],
   "description": "Use with the Osano CMP to identify the individual website user\u0027s consent state and configure when tags should execute.",
   "containerContexts": [
     "WEB"
